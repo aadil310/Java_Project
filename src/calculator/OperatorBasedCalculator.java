@@ -2,7 +2,8 @@ package calculator;
 import java.util.Scanner;
 /*
 Author Adil khan
-version: java18
+version: java_18
+date: 08/08/2024
  */
 
 public class OperatorBasedCalculator {
